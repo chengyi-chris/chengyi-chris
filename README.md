@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 ### 🔭 About Me
 
-I'm a research assistant at the **Research Center for Information Technology Innovation (CITI), Academia Sinica**. My research centers on Trustworthy ML, specifically exploring the synergy between adversarial robustness, intellectual property protection, and privacy-preserving AI."
+I'm a research assistant at the **Research Center for Information Technology Innovation (CITI), Academia Sinica**. My research centers on Trustworthy ML, specifically exploring the synergy between adversarial robustness, intellectual property protection, and privacy-preserving AI.
 
 ### 🔬 Research Interests
 * **Trustworthy AI:** Developing reliable systems with a focus on adversarial robustness and model integrity.
-* **Privacy & Security:** Exploring privacy-preserving AI and intellectual property protection (e.g., semantic watermarking).
+* **Privacy & Security:** Exploring privacy-preserving AI and intellectual property protection.
 * **System Reliability:** Ensuring fairness and interpretability when deploying AI models across diverse domains.
 
-📫 How to reach me: chengyi.lee.1224 at gmail.com
+### 📫 How to reach me
+- Email: chengyi.lee.1224 at gmail.com
+- Personal Website: https://chengyi-chris.github.io/
 
 ![](https://komarev.com/ghpvc/?username=chengyi-chris&label=Profile+Views)
